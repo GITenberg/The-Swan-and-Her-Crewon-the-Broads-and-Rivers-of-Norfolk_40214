@@ -1,0 +1,37 @@
+_repo: The-Swan-and-Her-Crewon-the-Broads-and-Rivers-of-Norfolk_40214
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40214-h/images/i_003cover.jpg
+creator:
+  author:
+    agent_name: Davies, G. Christopher (George Christopher)
+    alias: Davies, George Christopher
+    birthdate: 1849
+    deathdate: 1922
+    gutenberg_agent_id: '37998'
+    url: http://www.gutenberg.org/2009/agents/37998
+description: ''
+gutenberg_issued: '2012-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Yachts -- Juvenile fiction'
+- !lcsh 'Flowers -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Butterflies -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: "The Swan and Her Crew\r\nor The Adventures of Three Young Naturalists and\
+  \ Sportsmen on the Broads and Rivers of Norfolk"
+url: http://www.gutenberg.org/ebooks/40214
